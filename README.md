@@ -1,4 +1,4 @@
-### Hi there, I'm Jack 👋 [![Years Badge](https://badges.pufler.dev/years/JacksonHoggard)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/JacksonHoggard)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/JacksonHoggard)](https://badges.pufler.dev)
+### Hi there, I'm Jack 👋 [![Years Badge](https://badges.pufler.dev/years/JacksonHoggard)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/JacksonHoggard)](https://badges.pufler.dev)
 I am a student at UT Dallas and coding is one of my many passions.
 
 ### Nerd Stuff
