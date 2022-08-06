@@ -1,4 +1,4 @@
-### Hi there, I'm Jack 👋 [![Years Badge](https://badges.pufler.dev/years/JacksonHoggard)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/JacksonHoggard)](https://badges.pufler.dev)
+### Hi there, I'm Jack 👋 [![Repos Badge](https://badges.pufler.dev/repos/JacksonHoggard)](https://badges.pufler.dev)
 I am a computer science major at the Erik Jonsonn School of Engineering and Computer Science at UT Dallas.
 
 ### Nerd Stuff
