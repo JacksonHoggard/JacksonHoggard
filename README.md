@@ -2,7 +2,7 @@
 I am a computer science student at the Erik Jonsonn School of Engineering and Computer Science at UT Dallas with a love for crafting amazing experiences through code.
 
 ### 💻 Areas of Expertise
-I specialize in computer graphics, game design, and backend development. I'm always eager to dive into new challenges!
+I specialize in computer graphics, machine learning, and backend development. I'm always eager to dive into new challenges!
 
 ### 🌟 Current Focus
 I'm currently focusing on raytracing and AI research, and I'm excited to collaborate on projects that push the boundaries of what's possible.
